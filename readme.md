@@ -1,3 +1,3 @@
 1 add line remote / local 1 text
 2 add line 2
-4
+4 add line 4
